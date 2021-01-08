@@ -3,9 +3,9 @@
  *                                                                                                              *
  * @License Starts                                                                                              *
  *                                                                                                              *
- * Copyright © 2020 - present. MongoExpUser.  All Rights Reserved.                                                     *
+ * Copyright © 2020 - present. MongoExpUser.  All Rights Reserved.                                              *
  *                                                                                                              *
- * License: MIT -                       *
+ * License: MIT - https://github.com/MongoExpUser/Create-AWS-VPC-DynamoDB-With-TypeScript-CDK/blob/main/LICENSE *
  *                                                                                                              *
  * @License Ends                                                                                                *
  ****************************************************************************************************************
