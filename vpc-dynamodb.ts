@@ -76,7 +76,7 @@ export class ResourcesCreationStack extends Stack{
       Port.tcp(22),
       sshIngressRuleDescription
     );
-    //iii. allow into the port (db port)
+    //iii. allow into a specified port 
     vpcSecurityGroup.addIngressRule(
       Peer.anyIpv4(),
       Port.tcp(Number(this.param.port)),
