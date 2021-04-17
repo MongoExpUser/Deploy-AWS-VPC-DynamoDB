@@ -197,7 +197,7 @@ export class InvokeResourcesCreationStack {
       "dynamodbTableDescription" : dynamodbTableDescription
     }
     
-    // 2 create props option object and store relevant STACK parameters (inclusding env) in the object
+    // 2 create props option object and store relevant STACK parameters (including env) in the object
     const propsOptions: any = {
       env: env,
       stackId: stackId,
