@@ -1,6 +1,6 @@
 ## Deploy-AWS-VPC-DynamoDB
 
-Create the following resources with **TypeScript CDK** for a Database Migration Project:
+Create the following resources with **TypeScript CDK** for a database migration project:
 
 1) AWS VPC.    
 
